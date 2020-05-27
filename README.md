@@ -1,3 +1,8 @@
 # gotest
 
+
+
+gpgok
+
+
 gpg？
