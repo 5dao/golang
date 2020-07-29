@@ -1,4 +1,4 @@
-module github.com/5dao/gotest
+module github.com/5dao/golang
 
 go 1.12
 
