@@ -1,4 +1,4 @@
-package syntax
+package golang
 
 import (
 	"fmt"
@@ -21,4 +21,10 @@ EXIT:
 	ch := make(chan int)
 	<-ch
 	goto EXIT
+}
+
+func TestVar(t *testing.T) {
+
+	VarMain()
+
 }
